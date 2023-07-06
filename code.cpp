@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+class Item
+{
+   
+};
 int main()
 {
     cout<<"oops project"<<endl;
