@@ -1,3 +1,0 @@
-A use case is a description of the ways in which a user interacts with a system or product. 
-
-The use case for your project are:
